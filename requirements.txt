@@ -1,0 +1,10 @@
+# Uncomment to enable Azure Monitor OpenTelemetry
+# Ref: aka.ms/functions-azure-monitor-python
+# azure-monitor-opentelemetry
+
+azure-functions
+azure-functions-durable>=1.2.6
+requests>=2.32.0
+pandas>=2.0.0
+snowflake-connector-python[pandas]>=3.10.0
+cryptography>=42.0.0
