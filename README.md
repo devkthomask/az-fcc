@@ -532,6 +532,3 @@ UPDATED_AT TIMESTAMP_TZ DEFAULT CURRENT_TIMESTAMP()
 * Push FCC snapshots to Blob for archival?
 * Add SQL statement logging to Snowflake as “API” rows?
 * Customize Slack notification templates or add additional channels?
-
-All are straightforward—tell me your preference and I'll extend the code paths and README accordingly.
-
